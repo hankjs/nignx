@@ -2,6 +2,14 @@
 - 文件目录
   `cd /etc/nginx`
 
+- 操作
+  + 查看状态
+  `systemctl status nginx`
+  + 开启
+  `systemctl start nginx`
+  + 停止
+  `systemctl stop nginx`
+
 - 反向代理配置
 ```js
 	upstream home {
@@ -29,3 +37,6 @@
   + 主页 www.hankc.cn 3000
   + 京东 jd.hankc.cn 3001
   + 美团 mt.hankc.cn 3002
+
+  + 游戏 
+  + xxoo xxoo.hankc.cn 4001
