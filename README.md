@@ -12,6 +12,8 @@
   `systemctl start nginx`
   + 停止
   `systemctl stop nginx`
+  + 重启
+  `systemctl restart nginx`
 
 - 反向代理配置
 ```js
@@ -40,6 +42,8 @@
   + 主页 www.hankc.cn 3000
   + 京东 jd.hankc.cn 3001
   + 美团 mt.hankc.cn 3002
+  + 新闻 news.hankc.cn 3003
+  + CMS cms.hankc.cn 3004
 
   + 游戏 
   + xxoo xxoo.hankc.cn 4001
