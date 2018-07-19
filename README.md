@@ -2,6 +2,9 @@
 - 文件目录
   `cd /etc/nginx`
 
+- 更新
+  `git pull`
+
 - 操作
   + 查看状态
   `systemctl status nginx`
