@@ -44,6 +44,7 @@
   + 美团 mt.hankc.cn 3002
   + 新闻 news.hankc.cn 3003
   + CMS cms.hankc.cn 3004
+  + API api.hankc.cn 3005
 
   + 游戏 
   + xxoo xxoo.hankc.cn 4001
