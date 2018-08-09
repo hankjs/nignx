@@ -46,6 +46,7 @@
   - CMS cms.hankc.cn 3004
   - API api.hankc.cn 3005
   - 简历 rs.hankc.cn 3006
+  - 博客 blog.hankc.cn 3007
 
   - 游戏 
   - xxoo xxoo.hankc.cn 4001
