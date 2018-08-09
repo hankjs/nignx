@@ -39,12 +39,13 @@
 ```
 
 - 代理映射
-  + 主页 www.hankc.cn 3000
-  + 京东 jd.hankc.cn 3001
-  + 美团 mt.hankc.cn 3002
-  + 新闻 news.hankc.cn 3003
-  + CMS cms.hankc.cn 3004
-  + API api.hankc.cn 3005
+  - 主页 www.hankc.cn 3000
+  - 京东 jd.hankc.cn 3001
+  - 美团 mt.hankc.cn 3002
+  - 新闻 news.hankc.cn 3003
+  - CMS cms.hankc.cn 3004
+  - API api.hankc.cn 3005
+  - 简历 rs.hankc.cn 3006
 
-  + 游戏 
-  + xxoo xxoo.hankc.cn 4001
+  - 游戏 
+  - xxoo xxoo.hankc.cn 4001
